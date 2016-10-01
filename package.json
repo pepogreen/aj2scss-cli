@@ -1,6 +1,7 @@
 {
   "name": "aj2scss-cli",
   "version": "0.0.0",
+  "description": "Angular 2 SCSS Integration using CLI",
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
